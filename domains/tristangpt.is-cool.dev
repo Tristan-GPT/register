@@ -1,0 +1,17 @@
+{
+    "description": "My personal portfolio",
+
+    "domain": "is-cool.dev",
+    "subdomain": "tristangpt",
+
+    "owner": {
+        "repo": "https://github.com/Tristan-GPT/Tristan-GPT",
+        "email": "tristangpt.pro@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "tristangpt.vercel.app",
+    },
+
+    "proxied": false
+}
